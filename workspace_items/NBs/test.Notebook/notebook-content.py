@@ -20,7 +20,6 @@ print("Hello World")
 # META   "language_group": "synapse_pyspark"
 # META }
 
-
 # CELL ********************
 
 print(2+3)
